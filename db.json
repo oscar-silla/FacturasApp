@@ -1,0 +1,9 @@
+{
+  "bills": [
+    {
+      "client": "Óscar Silla",
+      "amount": "1000.00",
+      "id": 6
+    }
+  ]
+}

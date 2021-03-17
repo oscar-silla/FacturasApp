@@ -11,3 +11,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.align {
+  text-align: center;
+}
+
+.width-table {
+  max-width: 1000px;
+}
+
+.flex-align {
+  display: flex;
+  justify-content: center;
+}
+
+.width-create {
+  width: 300px;
+}
+
+.crimson {
+  color: crimson;
+}
+
+.flex-paragraph {
+  display: flex;
+  align-items: center;
+}
+
+.color-decoration {
+  color: rgb(62, 62, 129);
+}
+
+
